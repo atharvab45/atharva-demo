@@ -1,2 +1,3 @@
 # atharva-demo
-This is my demo repository.  Author - Atharva Bhandari
+This is my demo repository. 
+<br>Author - Atharva Bhandari
