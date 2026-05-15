@@ -1,3 +1,3 @@
 # atharva-demo
 This is my demo repository. 
-<br>Author - Atharva Bhandari
+<br>Author - Atharva (bhandari)
